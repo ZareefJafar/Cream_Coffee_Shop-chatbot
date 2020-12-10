@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
-#Chatbot "Kaldi" for CREAM Coffee shop chatbot 
+#Chatbot "Kaldi" for CREAM Coffee Shop 
 #Special thanks to DATACAMP NLP tutorials :) 
 
 # Define the states
@@ -95,16 +89,3 @@ Source: National Coffee Association of U.S.A
 """)
         break
   
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
