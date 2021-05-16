@@ -1,1 +1,1 @@
-# A chatbot using Natural-Language-Processing method
+# A chatbot for ordering coffee using basic technique in NLP
